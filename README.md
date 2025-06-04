@@ -1,2 +1,6 @@
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HaoxuanZeng&theme=transparent&show_icons=true&hide_border=true&count_private=false" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoxuanZeng&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
+## Statistics, Languages, and Tools
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaoxuanZeng&theme=github" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HaoxuanZeng&theme=github" width="32%" />
+</div>
