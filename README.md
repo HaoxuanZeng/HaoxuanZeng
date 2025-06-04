@@ -1,6 +1,4 @@
 ## Statistics, Languages, and Tools
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaoxuanZeng&theme=github" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HaoxuanZeng&theme=github" width="32%" />
-</div>
+[![HaoxuanZeng's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HaoxuanZeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![HaoxuanZeng's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=HaoxuanZeng&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
