@@ -1,7 +1,6 @@
 ## Statistics, Languages, and Tools
 
-[![HaoxuanZeng's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HaoxuanZeng&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![HaoxuanZeng's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=HaoxuanZeng&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HaoxuanZeng?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPlusPlus&logoColor=white)
