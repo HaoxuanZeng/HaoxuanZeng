@@ -1,6 +1,6 @@
 ## Statistics, Languages, and Tools
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HaoxuanZeng?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HaoxuanZeng?cardType=level&theme=tokyonight&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPlusPlus&logoColor=white)
